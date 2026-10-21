@@ -22,6 +22,14 @@ Investor-owned utilities (IOUs) serve about three-quarters of U.S. electricity c
 - **Investors:** affected by spending decisions and regulatory treatment
 - **Customers:** live with outages and pay for upgrades through their bills
 
+## AI Disclosure
+**We used AI to help in explaining data cleaning and analyzing concepts to us, writing and debugging code, and polishing the wording and theme of our presentation slides.**
+
+- **Cleaning:** Helped with finding 0s, duplicates, nulls, understanding each variable and its values, reshaping data to hold columns and values we needed, merging all datasets onto one data frame.
+- **Analysis:** Helped write code to analyze our findings and helped with understanding the outcome of our findings.
+- **Presentation:** Helped create visual outline and theme for presentation.
+
+
 ## Data
 
 | Source | What we used | Level |
